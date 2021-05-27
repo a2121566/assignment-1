@@ -1,0 +1,15 @@
+Questions1A: test the number entered by the user positive or negative
+
+Questions1B: mini calculator 
+
+Questions1C: test if the student is a graduate or a parent
+
+Questions1D: finding and printing odd numbers
+
+Questions1E: Choose the longest item from the collection of items and print it
+
+Questions2: Convert Decimal Numbers to the corresponding binary encoding
+
+Questions3: a program that plays the role of a foreign / Arabic dictionary
+
+Questions4: Python basics opp
